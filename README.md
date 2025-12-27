@@ -1,6 +1,6 @@
 # 💫 About Me
 Final-year B.Tech CS student (Cyber Security Honors)  
-Focused on **DevOps, Cloud & Security Automation**  
+Focused on **DevOps and Cyber Security**  
 Working with **Linux, Python scripting, Docker, and GitHub Actions**  
 Blending Cyber Security fundamentals with DevOps practices
 
