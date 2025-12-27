@@ -48,12 +48,6 @@ Blending Cyber Security fundamentals with DevOps practices
 
 ---
 
-# 📌 What I'm Building (For Internship Proof)
-- 🔹 Python Log Analyzer – detecting failed logins & exporting CSV report  
-- 🔹 Dockerized Flask App – containerized deployment  
-- 🔹 GitHub Actions Pipeline – automated execution on push  
-
----
 
 > ⚡ *I don’t know everything, but I’m learning fast and building consistently — not pretending.*
 
